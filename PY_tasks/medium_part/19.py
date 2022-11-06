@@ -1,4 +1,4 @@
-# 12) Определить, присутствует ли в заданном списке строк, некоторое число
+# Определить, присутствует ли в заданном списке строк, некоторое число
 def word_finder(num, _list):
     return f"Found your num {num} in list {str_lst}!" if {any(ch == num for ch in _list)} else "Nothing was found"
 

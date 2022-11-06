@@ -1,4 +1,4 @@
-# 3) Вывести на экран числа от -N до N
+# Вывести на экран числа от -N до N
 
 a = int(input(f"Enter the lowest value: "))
 b = int(input(f"Enter the highest value: "))
